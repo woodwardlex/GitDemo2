@@ -1,7 +1,5 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(GitDemo.UI.MVC.Startup))]
 namespace GitDemo.UI.MVC
 {
     public partial class Startup
